@@ -40,11 +40,11 @@
 
 1. **Клонировать репозиторий**:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Straiko/It.git
    ```
 2. **Перейти в директорию проекта**:
    ```bash
-   cd repository-name
+   cd it
    ```
 3. **Открыть файл `index.html` в браузере**. 🌐
 
